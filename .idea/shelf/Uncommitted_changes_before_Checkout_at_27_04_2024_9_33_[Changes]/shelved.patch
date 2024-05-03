@@ -1,0 +1,99 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a91abe45-9a2d-448a-a9c7-b9e11afab84d\" name=\"Changes\" comment=\"Homework2\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"homework2\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"Daniil74747\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/Daniil74747/pythonHomework2.git\",\r\n    \"accountId\": \"d984b5ce-54f2-47d3-9225-ba2188782df9\"\r\n  }\r\n}]]></component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$USER_HOME$/Homework2.py\" root0=\"SKIP_INSPECTION\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2fSeiqLIxNTSLgvaH0Owxl1cfvF\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.Homework2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.fgd.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.gh.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;homework2&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/user&quot;\r\n  }\r\n}</component>\r\n  <component name=\"Push.Settings\">\r\n    <force-push-targets>\r\n      <force-push-target remote-path=\"github2\" branch=\"homework2\" />\r\n    </force-push-targets>\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\user\" />\r\n      <recent name=\"C:\\Users\\user\\PycharmC2126\\pythonHomework2\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a91abe45-9a2d-448a-a9c7-b9e11afab84d\" name=\"Changes\" comment=\"\" />\r\n      <created>1713799036344</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1713799036344</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Homework\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1713799578968</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1713799578968</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Homework2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714118529868</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714118529868</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Homework2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714118648289</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714118648289</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Homework2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714118775682</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714118775682</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Homework2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714119491899</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714119491899</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Homework2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714119704860</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714119704860</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Homework2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714120025498</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714120025498</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Homework2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714120498651</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714120498651</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Homework\" />\r\n    <MESSAGE value=\"Homework2\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Homework2\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/Homework2.py</url>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,7 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a91abe45-9a2d-448a-a9c7-b9e11afab84d" name="Changes" comment="Homework2">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -32,19 +32,20 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "Daniil74747"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;Daniil74747&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/Daniil74747/pythonHomework2.git",
+-    "accountId": "d984b5ce-54f2-47d3-9225-ba2188782df9"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/Daniil74747/pythonHomework2.git&quot;,
++    &quot;accountId&quot;: &quot;d984b5ce-54f2-47d3-9225-ba2188782df9&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$USER_HOME$/Homework2.py" root0="SKIP_INSPECTION" />
+   </component>
+@@ -161,7 +162,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1714120498651</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="Homework2">
++      <option name="closed" value="true" />
++      <created>1714122479219</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1714122479219</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -180,14 +189,4 @@
+     <MESSAGE value="Homework2" />
+     <option name="LAST_COMMIT_MESSAGE" value="Homework2" />
+   </component>
+-  <component name="XDebuggerManager">
+-    <breakpoint-manager>
+-      <breakpoints>
+-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+-          <url>file://$PROJECT_DIR$/Homework2.py</url>
+-          <option name="timeStamp" value="3" />
+-        </line-breakpoint>
+-      </breakpoints>
+-    </breakpoint-manager>
+-  </component>
+ </project>
+\ No newline at end of file
+Index: Homework2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>class student:\r\n    name: str\r\n    age: int\r\n    group: str\r\n    money: int\r\n    rest: int\r\n    mark: int\r\n    day: int\r\n\r\n    def __init__(self, name, age, group, money, work, mark, day):\r\n        self.name = name\r\n        self.age = age\r\n        self.group = group\r\n        self.money = money\r\n        self.work = work\r\n        self.mark = mark\r\n        self.day = day\r\n    def printInfo(self):\r\n        print(f\"student: {student1.name} - {student1.age} - {student1.group} - {student1.money}\")\r\n    def work(self):\r\n        \r\n        if self.work:\r\n            print(f'{self.name} earned 50$ ')\r\n            self.money += 50\r\n        else:\r\n            print(f'{self.name} spend 25$')\r\n            self.money -= 25\r\n        if self.money < 200:\r\n            print(f'{self.name} time to work')\r\n        else:\r\n            print(f'{self.name} can rest')\r\n\r\n    def mark(self):\r\n        if self.mark < 9:\r\n            print(f'{self.name} time to learn')\r\n        else:\r\n            print(f'{self.name} studies well')\r\n\r\n    def day(self):\r\n        if self.day == 365:\r\n            print(f'{self.name} lives year')\r\n        else:\r\n            self.day += 1\r\n            print(f'{self.name} lives {self.day}')\r\n\r\nstudent1 = student(name='Daniil', age=14, group='C2126', money=0, work=0, mark=0, day=0)\r\nstudent1.printInfo()
+===================================================================
+diff --git a/Homework2.py b/Homework2.py
+--- a/Homework2.py	
++++ b/Homework2.py	
+@@ -25,6 +25,7 @@
+         else:
+             print(f'{self.name} spend 25$')
+             self.money -= 25
++
+         if self.money < 200:
+             print(f'{self.name} time to work')
+         else:

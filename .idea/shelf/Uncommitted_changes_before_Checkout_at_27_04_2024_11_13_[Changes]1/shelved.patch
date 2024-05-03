@@ -1,0 +1,24 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.py b/main.py
+new file mode 100644
+--- /dev/null	
++++ b/main.py	
+@@ -0,0 +1,14 @@
++class student:
++    firstname: str
++    secondname: str
++    age: int
++
++    def __init__(self, firstname: str, secondname: str, age: int):
++        self.firstname = firstname
++        self.secondname = secondname
++        self.age = age
++
++    def info_student(self):
++        print(f'{self.firstname} | {self.secondname} | {self.age}')
++
++student = student()
